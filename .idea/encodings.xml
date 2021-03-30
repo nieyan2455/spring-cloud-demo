@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/cloud-admin-admin8000/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-admin-admin8000/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-api-commons/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-api-commons/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-auther-auther9003/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-auther-auther9003/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-consumer-account84/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-consumer-account84/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-consumer-order80/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-consumer-order80/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-consumer-order83/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-consumer-order83/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-gateway-gateway9527/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-gateway-gateway9527/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-provider-payment9001/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-provider-payment9001/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-provider-storage9002/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-provider-storage9002/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-service-api/payment-service-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-service-api/payment-service-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-test/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

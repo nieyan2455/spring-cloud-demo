@@ -1,0 +1,4 @@
+com\ny\springcloud\constant\NacosConstant.class
+com\ny\springcloud\config\GatewayConfig.class
+com\ny\springcloud\filter\MyLogGatewayFilter.class
+com\ny\springcloud\GatewayApplication.class

@@ -1,0 +1,6 @@
+com\ny\springcloud\config\MybatisConfig.class
+com\ny\springcloud\feign\AccountFeignServer.class
+com\ny\springcloud\dao\TAccountDao.class
+com\ny\springcloud\AccountApplication.class
+com\ny\springcloud\feign\AccountFeignService.class
+com\ny\springcloud\feign\AccountFeignServiceFallback.class

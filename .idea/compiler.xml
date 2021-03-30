@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cloud-gateway-gateway9527" />
+        <module name="payment-service-api" />
+        <module name="cloud-consumer-order80" />
+        <module name="cloud-consumer-order83" />
+        <module name="springboot-test" />
+        <module name="cloud-auther-auther9003" />
+        <module name="cloud-consumer-account84" />
+        <module name="cloud-admin-admin8000" />
+        <module name="cloud-provider-storage9002" />
+        <module name="cloud-api-commons" />
+        <module name="cloud-provider-payment9001" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="account-service-api" target="1.8" />
+      <module name="cloud-provider-payment8001" target="1.8" />
+      <module name="cloudalibaba-provider-payment9002" target="1.8" />
+      <module name="storage-service-api" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="PREFER_TARGET_JDK_COMPILER" value="false" />
+  </component>
+</project>
