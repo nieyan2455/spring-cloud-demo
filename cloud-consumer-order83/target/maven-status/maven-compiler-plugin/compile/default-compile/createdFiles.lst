@@ -1,8 +1,0 @@
-com\ny\springcloud\config\MybatisConfig.class
-com\ny\springcloud\OrderApplication.class
-com\ny\springcloud\dao\TOrderDao.class
-com\ny\springcloud\controller\OrderController.class
-com\ny\springcloud\controller\SentinelController.class
-com\ny\springcloud\service\impl\OrderServiceImpl.class
-com\ny\springcloud\service\IOrderService.class
-com\ny\springcloud\config\ApplicationConfig.class

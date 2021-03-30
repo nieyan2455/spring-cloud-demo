@@ -1,6 +1,0 @@
-com\ny\springcloud\service\impl\PaymentServiceImpl.class
-com\ny\springcloud\service\IPaymentService.class
-com\ny\springcloud\feign\PaymentFeignServiceImpl.class
-com\ny\springcloud\controller\PaymentController.class
-com\ny\springcloud\PaymentApplication.class
-com\ny\springcloud\dao\PaymentDao.class

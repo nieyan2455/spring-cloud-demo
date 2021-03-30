@@ -1,8 +1,0 @@
-com\ny\springcloud\constant\TokenConstant.class
-com\ny\springcloud\entity\MyUserDetails.class
-com\ny\springcloud\AuthApplication.class
-com\ny\springcloud\config\SecurityConfiguration.class
-com\ny\springcloud\controller\MyController.class
-com\ny\springcloud\service\UserDetailsServiceServiceImpl.class
-com\ny\springcloud\prop\JwtProperties.class
-META-INF\spring-configuration-metadata.json

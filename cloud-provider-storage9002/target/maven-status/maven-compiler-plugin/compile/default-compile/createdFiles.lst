@@ -1,5 +1,0 @@
-com\ny\springcloud\feign\StorageFeignService.class
-com\ny\springcloud\StorageApplication.class
-com\ny\springcloud\feign\StorageFeignServiceFallback.class
-com\ny\springcloud\feign\StorageServer.class
-com\ny\springcloud\dao\TStorageDao.class
