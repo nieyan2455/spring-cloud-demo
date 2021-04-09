@@ -19,6 +19,7 @@
         <module>cloud-provider-storage9002</module>
         <module>springboot-test</module>
         <module>cloud-admin-admin8000</module>
+        <module>rocketmq-test</module>
     </modules>
     <packaging>pom</packaging>
 
